@@ -35,7 +35,7 @@ Gaussian blurred image| Edge detected image
 
 Edge detected image| selected region from the image
 :---:|:---:
-![](writeup_images/Edge.jpg)  |  ![](writeup_images/Masked.jpg)
+![](writeup_images/Edge.jpg)  |  ![](writeup_images/masked.jpg)
 
 ### **Draw lines by using the edges**
 *   To draw the lines from the edges detected from canny edge detection we use **hough transformation**.
